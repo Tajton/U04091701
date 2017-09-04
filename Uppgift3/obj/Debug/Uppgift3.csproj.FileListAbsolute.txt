@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\Uppgift3\bin\Debug\Uppgift3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\Uppgift3\bin\Debug\Uppgift3.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\Uppgift3\bin\Debug\Uppgift3.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\Uppgift3\obj\Debug\Uppgift3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\Uppgift3\obj\Debug\Uppgift3.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\Uppgift3\obj\Debug\Uppgift3.pdb

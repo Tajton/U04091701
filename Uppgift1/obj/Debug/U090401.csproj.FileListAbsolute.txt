@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\U090401\bin\Debug\U090401.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\U090401\bin\Debug\U090401.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\U090401\bin\Debug\U090401.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\U090401\obj\Debug\U090401.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\U090401\obj\Debug\U090401.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\U090401\obj\Debug\U090401.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U090401\U090401\obj\Debug\U090401.pdb
